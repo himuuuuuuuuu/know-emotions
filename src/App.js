@@ -166,7 +166,7 @@ export default function App() {
           );
         })}
       </div>
-      <footer className="footer">Made by Samyak Shah with 💝 </footer>
+      <footer className="footer">Made by Himanshu Jain with 💝 </footer>
     </div>
   );
 }
